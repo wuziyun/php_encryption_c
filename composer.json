@@ -1,0 +1,16 @@
+{
+    "name": "wzy/php_encryption_c",
+    "description": "php encryption  collection,php加密解密工具",
+    "type": "library",
+    "require": {
+        "php": ">=8.0",
+        "ext-openssl": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wzy"
+        }
+    ],
+    "minimum-stability": "stable"
+}
